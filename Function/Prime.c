@@ -2,7 +2,7 @@
 int PrimeOrNot(int);
 int main()
 {
-    int n1,prime;
+    int n1, prime;
     printf(" Input a positive number : ");
     scanf("%d",&n1);
     prime = PrimeOrNot(n1);

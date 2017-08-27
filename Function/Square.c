@@ -1,5 +1,5 @@
 #include <stdio.h>
-//To finr the square of any number
+//To find the square of any number
 double square(double num)
 {
     return (num * num);
